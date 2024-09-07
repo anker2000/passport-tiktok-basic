@@ -12,9 +12,9 @@
     "user.info.basic",
     "identity"
   ],
-  "homepage": "https://github.com/mystery-man/passport-tiktok",
+  "homepage": "https://github.com/anker2000/passport-tiktok-basic",
   "bugs": {
-    "url": "https://github.com/mystery-man/passport-tiktok/issues"
+    "url": "https://github.com/anker2000/passport-tiktok-basic/issues"
   },
   "license": "ISC",
   "author": "Zohaib Shakir (https://github.com/mystery-man)",
@@ -27,7 +27,7 @@
   "main": "./lib/passport-tiktok/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/anker2000/passport-tiktok.git"
+    "url": "https://github.com/anker2000/passport-tiktok-basic"
   },
   "scripts": {
     "test": "node_modules/.bin/gulp ci"
